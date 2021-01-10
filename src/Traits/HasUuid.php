@@ -8,7 +8,7 @@ trait HasUuid
 {
     /**
      * Generate and fill uuid field when a model
-     * is created in with the eloquent ORM
+     * is created with the eloquent ORM
      */
     protected static function bootHasUuid()
     {
