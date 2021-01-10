@@ -1,7 +1,7 @@
-# uuid
+## laragoon/uuid
 Uuid Trait for Laravel models
 
-## Installation
+### Installation
 
 ````
 composer install laragoon/uuid
