@@ -1,0 +1,19 @@
+{
+    "name": "laragoon/uuid",
+    "description": "Laragoon Uuid package",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Laragoon",
+            "email": "info@laragoon.cloud"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Laragoon\\Uuid\\": "src"
+        }
+    }
+}
